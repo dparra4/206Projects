@@ -1,0 +1,39 @@
+.title {
+    text-align: center;
+    font-family: monospace;
+    font-size: 25px;
+    
+}
+.bord {
+    list-style: none;
+    border:2px solid black;
+    padding: 10px;
+ 
+}
+
+#topics{
+    font-size: 20px;
+    font-family: serif;
+    text-align: center;
+    color: cornflowerblue;
+    font-weight: bold;
+    
+}
+
+.mid{
+    list-style: none;
+    text-align: center;
+    font-size: 15px;
+    padding: 5px;
+    font-style: italic;
+    
+    
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
